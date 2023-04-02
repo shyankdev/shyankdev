@@ -5,10 +5,10 @@
 
 - 📫 How to reach me ... 
 
-akshar@shyankdev.com
+akshar@shyankdev.us
 shyankdev@gmail.com
 
-website - shyankdev.com
+website - shyankdev.us
 
 <!---
 shyankdev/shyankdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
